@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" herf="https://www.linkedin.com/in/thomasdamkj%C3%A6r/">
  </div>
