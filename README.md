@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <a herf="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://www.peopletools.dk/wp-content/uploads/174857.png">
  </a>
