@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <a herf="https://www.linkedin.com/">
-  <img src="https://www.peopletools.dk/wp-content/uploads/174857.png" style="height 40px">
+  <img src="https://www.peopletools.dk/wp-content/uploads/174857.png" style="height: 40px">
  </a>
