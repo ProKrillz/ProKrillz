@@ -1,4 +1,4 @@
-<div style="padding-left: 1000px">👋 Well hello there 👋</div>
+<div style="font-size: 100px">👋 Well hello there 👋</div>
 
 <!--
 **ProKrillz/ProKrillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
