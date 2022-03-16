@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/thomasdamkj%C3%A6r/" target="_blank">
   <img src="https://www.peopletools.dk/wp-content/uploads/174857.png" style="height: 40px">
  </a>
